@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey! I am Sayantani Bhattacharya 👋  
+<!--
+## Hey! I am [Sayantani Bhattacharya](https://sayantani-bhattacharya.github.io/) 👋  
+-->
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sayantani%20Bhattacharya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayantani-bhattacharya-19a419175/ "Connect on LinkedIn")
+
+I'm an MS Robotics student at Northwestern University.
+- Currently learning ROS2 💻, Robot Dynamics and Kinematics 🦾 and SLAM.
+- Interested in Reinforcement Learning and Multi Agent Systems.
 
 <!--
-**Sayantani-Bhattacharya/Sayantani-Bhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Reach out to me for discussions and projects on [![Gmail Badge](https://img.shields.io/badge/-sayantanib@u.northwestern.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:roopsha2k@gmail.com "Connect via Email")
+- ⚡ Fun fact: 
 -->
+
+
