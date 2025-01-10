@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Sayantani%20Bhattacharya-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sayantani-bhattacharya-19a419175/ "Connect on LinkedIn")
 
 I'm an MS Robotics student at Northwestern University.
-- Currently learning ROS2 💻, Robot Dynamics and Kinematics 🦾 and SLAM.
+- Currently learning 💻 ROS2, Robot Dynamics and Kinematics and SLAM.
 - Interested in Reinforcement Learning and Multi Agent Systems.
 
 <!--
